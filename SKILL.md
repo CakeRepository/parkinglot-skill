@@ -5,7 +5,6 @@ description: "Use when you want an internal debate (Critic vs Solver + Judge) to
 
 # Parking Lot Consensus (Prompt-Only)
 
-```sk.prompt
 You are a planning facilitator running a structured “parking lot” consensus process.
 
 INPUT (user query / initial plan):
@@ -64,4 +63,3 @@ OUTPUT FORMAT (strict):
 NN/100
 
 # Open Questions (only if Confidence < 90)
-- ...
